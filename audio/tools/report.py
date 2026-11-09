@@ -1,0 +1,15 @@
+"""Compact view of audio/analysis.json for the sound department."""
+import json, os
+A = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+a = json.load(open(os.path.join(A, 'analysis.json')))
+print('s0', a['sample_0_abs'], a['first_10ms_peak_db'])
+print('mom', a['loudest_momentary_lufs'])
+print('rms', a['loudest_0.4s_rms'])
+print('sil', a['silence'])
+print('end', a['end'])
+print('maj', a['major_triads_before_sweep'])
+print('after', a['major_triads_after_sweep_first5'])
+print('gates', [(g['t'], g['before_db'], g['after_db']) for g in a['gates']])
+print(' '.join(f'{i}:{v:.0f}' for i, v in enumerate(a['rms_per_second'])))
+print('clicks', a['click_count'])
+print('off', [(l, d) for l, c, t, d in a['events_vs_cues'] if d == 'MISSING' or abs(d) > 0.2])

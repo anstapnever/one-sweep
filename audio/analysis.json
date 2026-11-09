@@ -1,0 +1,774 @@
+{
+ "file": "out/soundtrack.wav",
+ "duration": 78.2,
+ "sample_0_abs": 0.145233154296875,
+ "first_10ms_peak_db": -6.6,
+ "rms_per_second": [
+  -16.3,
+  -16.5,
+  -35.9,
+  -31.0,
+  -30.2,
+  -29.9,
+  -31.8,
+  -32.4,
+  -40.3,
+  -21.9,
+  -18.1,
+  -24.4,
+  -27.2,
+  -24.3,
+  -21.4,
+  -18.9,
+  -23.8,
+  -38.0,
+  -42.7,
+  -36.8,
+  -28.2,
+  -30.4,
+  -27.9,
+  -31.9,
+  -37.5,
+  -29.5,
+  -19.0,
+  -26.9,
+  -21.1,
+  -18.0,
+  -17.1,
+  -19.8,
+  -14.2,
+  -23.6,
+  -35.3,
+  -34.1,
+  -37.8,
+  -33.3,
+  -37.7,
+  -34.9,
+  -19.0,
+  -24.1,
+  -29.7,
+  -29.4,
+  -28.3,
+  -25.6,
+  -23.7,
+  -22.0,
+  -21.4,
+  -25.7,
+  -30.8,
+  -36.3,
+  -38.2,
+  -39.2,
+  -35.2,
+  -19.1,
+  -18.0,
+  -20.2,
+  -21.6,
+  -81.9,
+  -100.5,
+  -9.9,
+  -15.6,
+  -20.1,
+  -21.9,
+  -21.4,
+  -20.3,
+  -17.7,
+  -17.9,
+  -18.9,
+  -18.8,
+  -21.2,
+  -27.0,
+  -34.0,
+  -39.0,
+  -37.3,
+  -35.3,
+  -36.0
+ ],
+ "loudest_momentary_lufs": [
+  [
+   61.2,
+   -6.3
+  ],
+  [
+   32.7,
+   -10.0
+  ],
+  [
+   10.1,
+   -12.2
+  ],
+  [
+   1.8,
+   -12.2
+  ],
+  [
+   55.85,
+   -14.0
+  ],
+  [
+   40.55,
+   -14.6
+  ],
+  [
+   26.2,
+   -14.7
+  ],
+  [
+   67.15,
+   -14.8
+  ]
+ ],
+ "loudest_0.4s_rms": [
+  [
+   61.2,
+   -8.4
+  ],
+  [
+   32.7,
+   -11.9
+  ],
+  [
+   10.1,
+   -14.2
+  ],
+  [
+   0.2,
+   -14.3
+  ],
+  [
+   55.85,
+   -15.3
+  ],
+  [
+   40.55,
+   -15.5
+  ],
+  [
+   26.2,
+   -16.2
+  ],
+  [
+   30.8,
+   -16.4
+  ]
+ ],
+ "loudest_is_sweep": true,
+ "silence": {
+  "window": [
+   59.0,
+   61.0
+  ],
+  "rms_db": -84.8,
+  "peak_db": -69.5,
+  "zero_after_thread": true,
+  "zero_from_s": 60.4,
+  "sound_right_after_sweep_peak_db": -4.7,
+  "sample_before_sweep": 0.0,
+  "sample_at_sweep": 0.231048583984375
+ },
+ "end": {
+  "END_CUT": 77.93333333333332,
+  "all_zero_after": true,
+  "rms_last_400ms_before_cut_db": -40.7
+ },
+ "gates": [
+  {
+   "t": 2.0,
+   "before_db": -12.5,
+   "after_db": -30.0
+  },
+  {
+   "t": 7.417,
+   "before_db": -30.5,
+   "after_db": -40.0
+  },
+  {
+   "t": 16.417,
+   "before_db": -25.1,
+   "after_db": -65.0
+  },
+  {
+   "t": 23.417,
+   "before_db": -33.5,
+   "after_db": -62.7
+  },
+  {
+   "t": 33.208,
+   "before_db": -17.8,
+   "after_db": -34.8
+  },
+  {
+   "t": 39.917,
+   "before_db": -37.1,
+   "after_db": -31.3
+  },
+  {
+   "t": 49.208,
+   "before_db": -20.3,
+   "after_db": -23.4
+  },
+  {
+   "t": 59.0,
+   "before_db": -20.5,
+   "after_db": -78.6
+  }
+ ],
+ "key_score": {
+  "hook": {
+   "best": "C minor",
+   "r": 0.84,
+   "best_major": "C major",
+   "r_major": 0.76,
+   "top": [
+    "C",
+    "G",
+    "Eb",
+    "Db",
+    "D"
+   ]
+  },
+  "dread": {
+   "best": "C minor",
+   "r": 0.9,
+   "best_major": "C major",
+   "r_major": 0.63,
+   "top": [
+    "C",
+    "G",
+    "Eb",
+    "Ab",
+    "B"
+   ]
+  },
+  "boast": {
+   "best": "C minor",
+   "r": 0.54,
+   "best_major": "Eb major",
+   "r_major": 0.47,
+   "top": [
+    "Eb",
+    "D",
+    "C",
+    "Db",
+    "Bb"
+   ]
+  },
+  "slash": {
+   "best": "C minor",
+   "r": 0.59,
+   "best_major": "C major",
+   "r_major": 0.47,
+   "top": [
+    "C",
+    "Gb",
+    "Eb",
+    "G",
+    "D"
+   ]
+  },
+  "battle": {
+   "best": "C minor",
+   "r": 0.63,
+   "best_major": "Ab major",
+   "r_major": 0.6,
+   "top": [
+    "C",
+    "Ab",
+    "Bb",
+    "G",
+    "Eb"
+   ]
+  },
+  "regen": {
+   "best": "F minor",
+   "r": 0.84,
+   "best_major": "Ab major",
+   "r_major": 0.57,
+   "top": [
+    "C",
+    "F",
+    "Ab",
+    "G",
+    "Eb"
+   ]
+  },
+  "climb": {
+   "best": "G minor",
+   "r": 0.53,
+   "best_major": "C major",
+   "r_major": 0.46,
+   "top": [
+    "G",
+    "D",
+    "Gb",
+    "C",
+    "Db"
+   ]
+  },
+  "gather": {
+   "best": "C minor",
+   "r": 0.8,
+   "best_major": "C major",
+   "r_major": 0.71,
+   "top": [
+    "C",
+    "G",
+    "Eb",
+    "Gb",
+    "Db"
+   ]
+  },
+  "release": {
+   "best": "C minor",
+   "r": 0.86,
+   "best_major": "Eb major",
+   "r_major": 0.81,
+   "top": [
+    "G",
+    "C",
+    "Eb",
+    "Bb",
+    "F"
+   ]
+  },
+  "planet": {
+   "best": "C major",
+   "r": 0.87,
+   "best_major": "C major",
+   "r_major": 0.87,
+   "top": [
+    "C",
+    "G",
+    "E",
+    "Eb",
+    "A"
+   ]
+  },
+  "end": {
+   "best": "E minor",
+   "r": 0.74,
+   "best_major": "G major",
+   "r_major": 0.7,
+   "top": [
+    "G",
+    "E",
+    "A",
+    "D",
+    "C"
+   ]
+  }
+ },
+ "key_music_stems": {
+  "hook": {
+   "best": "C minor",
+   "r": 0.84,
+   "best_major": "C major",
+   "r_major": 0.79
+  },
+  "dread": {
+   "best": "C minor",
+   "r": 0.87,
+   "best_major": "C major",
+   "r_major": 0.64
+  },
+  "boast": {
+   "best": "Eb major",
+   "r": 0.7,
+   "best_major": "Eb major",
+   "r_major": 0.7
+  },
+  "slash": {
+   "best": "C minor",
+   "r": 0.47,
+   "best_major": "C major",
+   "r_major": 0.4
+  },
+  "battle": {
+   "best": "Eb major",
+   "r": 0.55,
+   "best_major": "Eb major",
+   "r_major": 0.55
+  },
+  "regen": {
+   "best": "F minor",
+   "r": 0.82,
+   "best_major": "F major",
+   "r_major": 0.8
+  },
+  "climb": {
+   "best": "Gb major",
+   "r": 0.49,
+   "best_major": "Gb major",
+   "r_major": 0.49
+  },
+  "gather": {
+   "best": "C minor",
+   "r": 0.81,
+   "best_major": "C major",
+   "r_major": 0.79
+  },
+  "release": {
+   "best": "C minor",
+   "r": 0.86,
+   "best_major": "Eb major",
+   "r_major": 0.79
+  },
+  "planet": {
+   "best": "C major",
+   "r": 0.87,
+   "best_major": "C major",
+   "r_major": 0.87
+  },
+  "end": {
+   "best": "C major",
+   "r": 0.89,
+   "best_major": "C major",
+   "r_major": 0.89
+  }
+ },
+ "major_triads_before_sweep": [],
+ "major_triads_after_sweep_first5": [
+  [
+   62.5,
+   "Eb"
+  ],
+  [
+   63.1,
+   "Ab"
+  ],
+  [
+   65.5,
+   "Eb"
+  ],
+  [
+   66.5,
+   "F"
+  ],
+  [
+   66.8,
+   "G"
+  ]
+ ],
+ "spectrum": {
+  "hook": [
+   -7.6,
+   -6.3,
+   -5.1,
+   -8.0,
+   -9.0
+  ],
+  "dread": [
+   -5.0,
+   -4.1,
+   -5.4,
+   -22.5,
+   -36.8
+  ],
+  "boast": [
+   -19.8,
+   -4.9,
+   -2.6,
+   -11.3,
+   -15.0
+  ],
+  "slash": [
+   -19.0,
+   -7.1,
+   -2.6,
+   -8.4,
+   -10.2
+  ],
+  "battle": [
+   -6.7,
+   -3.3,
+   -6.5,
+   -10.9,
+   -17.9
+  ],
+  "regen": [
+   -6.2,
+   -6.6,
+   -3.3,
+   -13.0,
+   -16.8
+  ],
+  "climb": [
+   -20.1,
+   -10.5,
+   -2.2,
+   -5.4,
+   -21.0
+  ],
+  "gather": [
+   -4.2,
+   -5.0,
+   -10.0,
+   -9.9,
+   -10.0
+  ],
+  "release": [
+   -13.5,
+   -7.7,
+   -3.0,
+   -7.3,
+   -10.3
+  ],
+  "planet": [
+   -19.1,
+   -8.4,
+   -1.4,
+   -9.2,
+   -22.8
+  ],
+  "end": [
+   -31.2,
+   -11.1,
+   -0.9,
+   -9.8,
+   -19.0
+  ],
+  "broom s05": [
+   -12.0,
+   -18.8,
+   -9.1,
+   -4.6,
+   -3.4
+  ],
+  "broom end": [
+   -50.4,
+   -31.7,
+   -3.5,
+   -5.5,
+   -5.7
+  ]
+ },
+ "events_vs_cues": [
+  [
+   "hook bass drum",
+   0,
+   0.0,
+   0.0
+  ],
+  [
+   "beam rake",
+   0,
+   0.0,
+   0.0
+  ],
+  [
+   "pod impact",
+   "podHit",
+   1.75,
+   0.0
+  ],
+  [
+   "shock boom",
+   "hookShock",
+   1.917,
+   0.0
+  ],
+  [
+   "leaf pat",
+   "leafSnoot",
+   2.0,
+   0.0
+  ],
+  [
+   "puff",
+   "leafBlow",
+   2.336,
+   0.003
+  ],
+  [
+   "falling whistle",
+   "drop",
+   9.659,
+   0.034
+  ],
+  [
+   "landing",
+   "land",
+   9.917,
+   0.0
+  ],
+  [
+   "eye stinger",
+   "eye",
+   15.0,
+   0.0
+  ],
+  [
+   "toe tok 1",
+   "toeTap1",
+   17.833,
+   -0.0
+  ],
+  [
+   "toe tok 2",
+   "toeTap2",
+   18.333,
+   -0.0
+  ],
+  [
+   "tower slide",
+   "slide",
+   21.878,
+   0.17
+  ],
+  [
+   "hair tick",
+   "strand",
+   23.708,
+   -0.0
+  ],
+  [
+   "warlord roar",
+   "shedStart",
+   25.149,
+   0.024
+  ],
+  [
+   "armour burst",
+   "shed",
+   26.0,
+   0.0
+  ],
+  [
+   "blade hit",
+   "bladeHit",
+   32.5,
+   0.0
+  ],
+  [
+   "soot shake",
+   "sootShake",
+   35.334,
+   0.001
+  ],
+  [
+   "yawn",
+   "yawn",
+   37.1,
+   0.1
+  ],
+  [
+   "fsst",
+   "flick",
+   39.919,
+   0.002
+  ],
+  [
+   "delayed boom",
+   "flickBoom",
+   40.375,
+   0.0
+  ],
+  [
+   "leaf plink",
+   "pileGone",
+   51.0,
+   0.0
+  ],
+  [
+   "citrus plink",
+   "citrusFall",
+   51.708,
+   -0.0
+  ],
+  [
+   "THE BEAM",
+   "fire",
+   55.637,
+   0.012
+  ],
+  [
+   "broom creak",
+   "grip",
+   57.827,
+   0.119
+  ],
+  [
+   "THE SWEEP",
+   "sweep",
+   61.0,
+   0.0
+  ],
+  [
+   "chitin dissolving",
+   "breakup",
+   64.276,
+   0.068
+  ],
+  [
+   "leaf lands",
+   "leafLand",
+   76.917,
+   0.0
+  ]
+ ],
+ "last_broom_at": [
+  77.347
+ ],
+ "click_count": 170,
+ "click_candidates": [
+  0.0,
+  0.01,
+  1.2,
+  7.45,
+  8.83,
+  8.96,
+  9.03,
+  9.21,
+  9.62,
+  9.92,
+  11.21,
+  11.5,
+  11.74,
+  11.87,
+  12.06,
+  12.07,
+  12.21,
+  12.22,
+  12.35,
+  12.48,
+  12.64,
+  12.71,
+  12.77,
+  12.96,
+  13.02,
+  13.03,
+  13.23,
+  13.3,
+  13.35,
+  13.36,
+  13.58,
+  13.59,
+  14.51,
+  14.52,
+  14.56,
+  14.59,
+  14.6,
+  15.0,
+  15.01,
+  16.91,
+  16.94,
+  17.09,
+  17.16,
+  17.28,
+  18.33,
+  18.91,
+  19.09,
+  20.63,
+  20.69,
+  20.74,
+  21.07,
+  22.12,
+  22.18,
+  22.19,
+  22.26,
+  22.51,
+  22.52,
+  22.74,
+  22.86,
+  23.23
+ ]
+}
